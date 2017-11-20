@@ -1,0 +1,8 @@
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.dominio\bin\Debug\ProjetoDotNetUnidade2DDD.dominio.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.dominio\bin\Debug\ProjetoDotNetUnidade2DDD.dominio.pdb
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.dominio\obj\Debug\ProjetoDotNetUnidade2DDD.dominio.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.dominio\obj\Debug\ProjetoDotNetUnidade2DDD.dominio.pdb
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.dominio\bin\Debug\ProjetoDotNetUnidade2DDD.dominio.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.dominio\bin\Debug\ProjetoDotNetUnidade2DDD.dominio.pdb
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.dominio\obj\Debug\ProjetoDotNetUnidade2DDD.dominio.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.dominio\obj\Debug\ProjetoDotNetUnidade2DDD.dominio.pdb

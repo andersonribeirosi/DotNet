@@ -1,0 +1,114 @@
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ApplicationInsights.config
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\csc.exe
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\System.Collections.Immutable.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\vbc.exe
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\VBCSCompiler.exe
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\VBCSCompiler.exe.config
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ProjetoDotNetUnidade2.MVC.DDD.dll.config
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ProjetoDotNetUnidade2.MVC.DDD.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ProjetoDotNetUnidade2.MVC.DDD.pdb
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Antlr3.Runtime.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.Web.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.WindowsServer.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.ApplicationInsights.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.Web.Infrastructure.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Newtonsoft.Json.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.Helpers.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.Mvc.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.Optimization.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.Razor.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.WebPages.Deployment.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.WebPages.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.WebPages.Razor.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\WebGrease.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.Web.xml
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.WindowsServer.xml
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.ApplicationInsights.xml
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.Helpers.xml
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.Mvc.xml
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.Optimization.xml
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.Razor.xml
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.WebPages.xml
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.WebPages.Deployment.xml
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.WebPages.Razor.xml
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Antlr3.Runtime.pdb
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Newtonsoft.Json.xml
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\obj\Debug\ProjetoDotNetUnidade2.MVC.DDD.csprojResolveAssemblyReference.cache
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\obj\Debug\ProjetoDotNetUnidade2.MVC.DDD.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\obj\Debug\ProjetoDotNetUnidade2.MVC.DDD.pdb
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\EntityFramework.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\EntityFramework.SqlServer.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\EntityFramework.xml
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\EntityFramework.SqlServer.xml
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ApplicationInsights.config
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\csc.exe
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\vbc.exe
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ProjetoDotNetUnidade2.MVC.DDD.dll.config
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ProjetoDotNetUnidade2.MVC.DDD.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ProjetoDotNetUnidade2.MVC.DDD.pdb
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Antlr3.Runtime.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\EntityFramework.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\EntityFramework.SqlServer.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.Web.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Newtonsoft.Json.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.Helpers.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.Mvc.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.Optimization.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.Razor.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.WebPages.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.WebPages.Razor.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\WebGrease.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\EntityFramework.xml
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\EntityFramework.SqlServer.xml
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.Web.xml
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.Helpers.xml
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.Mvc.xml
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.Optimization.xml
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.Razor.xml
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.WebPages.xml
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.WebPages.Razor.xml
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Antlr3.Runtime.pdb
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Newtonsoft.Json.xml
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\obj\Debug\ProjetoDotNetUnidade2.MVC.DDD.csprojResolveAssemblyReference.cache
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\obj\Debug\ProjetoDotNetUnidade2.MVC.DDD.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\obj\Debug\ProjetoDotNetUnidade2.MVC.DDD.pdb

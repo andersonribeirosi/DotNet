@@ -1,0 +1,24 @@
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\ProjetoDotNetUnidade2.Infra.Data.dll.config
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\ProjetoDotNetUnidade2.Infra.Data.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\ProjetoDotNetUnidade2.Infra.Data.pdb
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\EntityFramework.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\ProjetoDotNetUnidade2DDD.dominio.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\ProjetoDotNetUnidade2DDD.dominio.pdb
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\EntityFramework.xml
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\obj\Debug\ProjetoDotNetUnidade2.Infra.Data.csprojResolveAssemblyReference.cache
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\obj\Debug\ProjetoDotNetUnidade2.Infra.Data.dll
+c:\users\juliana borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\obj\Debug\ProjetoDotNetUnidade2.Infra.Data.pdb
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\ProjetoDotNetUnidade2.Infra.Data.dll.config
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\ProjetoDotNetUnidade2.Infra.Data.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\ProjetoDotNetUnidade2.Infra.Data.pdb
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\ProjetoDotNetUnidade2DDD.dominio.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\ProjetoDotNetUnidade2DDD.dominio.pdb
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\obj\Debug\ProjetoDotNetUnidade2.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\obj\Debug\ProjetoDotNetUnidade2.Infra.Data.dll
+C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\obj\Debug\ProjetoDotNetUnidade2.Infra.Data.pdb
