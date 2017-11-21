@@ -1,7 +1,4 @@
-﻿
-using System.Collections.Generic;
-
-namespace ProjetoDotNetUnidade2DDD.dominio.Entidades
+﻿namespace ProjetoDotNetUnidade2DDD.dominio.Entidades
 {
     public class Produto
     {

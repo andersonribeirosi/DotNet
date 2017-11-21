@@ -169,3 +169,10 @@ C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Newtons
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\obj\Debug\ProjetoDotNetUnidade2.MVC.DDD.csprojResolveAssemblyReference.cache
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\obj\Debug\ProjetoDotNetUnidade2.MVC.DDD.dll
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\obj\Debug\ProjetoDotNetUnidade2.MVC.DDD.pdb
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ProjetoDotNetUnidade2DDD.dominio.dll
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ProjetoDotNetUnidade2DDD.dominio.pdb
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\AutoMapper.Net4.dll
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\AutoMapper.dll
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\AutoMapper.xml
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ProjetoDotNetUnidade2.Infra.Data.dll
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ProjetoDotNetUnidade2.Infra.Data.pdb
