@@ -3,3 +3,8 @@ C:\Users\Juliana Borges\documents\visual studio 2015\Projects\ProjetoDotNetUnida
 C:\Users\Juliana Borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.Aplicacao\obj\Debug\ProjetoDotNetUnidade2DDD.Aplicacao.csprojResolveAssemblyReference.cache
 C:\Users\Juliana Borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.Aplicacao\obj\Debug\ProjetoDotNetUnidade2DDD.Aplicacao.dll
 C:\Users\Juliana Borges\documents\visual studio 2015\Projects\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.Aplicacao\obj\Debug\ProjetoDotNetUnidade2DDD.Aplicacao.pdb
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.Aplicacao\bin\Debug\ProjetoDotNetUnidade2DDD.Aplicacao.dll
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.Aplicacao\bin\Debug\ProjetoDotNetUnidade2DDD.Aplicacao.pdb
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.Aplicacao\obj\Debug\ProjetoDotNetUnidade2DDD.Aplicacao.csprojResolveAssemblyReference.cache
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.Aplicacao\obj\Debug\ProjetoDotNetUnidade2DDD.Aplicacao.dll
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.Aplicacao\obj\Debug\ProjetoDotNetUnidade2DDD.Aplicacao.pdb

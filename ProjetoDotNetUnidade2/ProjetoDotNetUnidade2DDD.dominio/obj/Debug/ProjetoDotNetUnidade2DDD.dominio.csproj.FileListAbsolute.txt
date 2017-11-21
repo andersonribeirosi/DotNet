@@ -6,3 +6,8 @@ C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUn
 C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.dominio\bin\Debug\ProjetoDotNetUnidade2DDD.dominio.pdb
 C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.dominio\obj\Debug\ProjetoDotNetUnidade2DDD.dominio.dll
 C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.dominio\obj\Debug\ProjetoDotNetUnidade2DDD.dominio.pdb
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.dominio\bin\Debug\ProjetoDotNetUnidade2DDD.dominio.dll
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.dominio\bin\Debug\ProjetoDotNetUnidade2DDD.dominio.pdb
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.dominio\obj\Debug\ProjetoDotNetUnidade2DDD.dominio.csprojResolveAssemblyReference.cache
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.dominio\obj\Debug\ProjetoDotNetUnidade2DDD.dominio.dll
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.dominio\obj\Debug\ProjetoDotNetUnidade2DDD.dominio.pdb

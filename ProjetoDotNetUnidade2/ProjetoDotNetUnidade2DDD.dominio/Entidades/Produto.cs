@@ -1,4 +1,6 @@
 ﻿
+using System.Collections.Generic;
+
 namespace ProjetoDotNetUnidade2DDD.dominio.Entidades
 {
     public class Produto
@@ -16,5 +18,5 @@ namespace ProjetoDotNetUnidade2DDD.dominio.Entidades
 
         public virtual Cliente Cliente { get; set; }
 
-    }
+        }
 }

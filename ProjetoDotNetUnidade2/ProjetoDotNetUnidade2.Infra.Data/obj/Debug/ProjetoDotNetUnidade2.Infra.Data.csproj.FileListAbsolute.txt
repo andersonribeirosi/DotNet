@@ -22,3 +22,15 @@ C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUn
 C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\obj\Debug\ProjetoDotNetUnidade2.Infra.Data.csprojResolveAssemblyReference.cache
 C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\obj\Debug\ProjetoDotNetUnidade2.Infra.Data.dll
 C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\obj\Debug\ProjetoDotNetUnidade2.Infra.Data.pdb
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\ProjetoDotNetUnidade2.Infra.Data.dll.config
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\ProjetoDotNetUnidade2.Infra.Data.dll
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\ProjetoDotNetUnidade2.Infra.Data.pdb
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\EntityFramework.dll
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\ProjetoDotNetUnidade2DDD.dominio.dll
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\ProjetoDotNetUnidade2DDD.dominio.pdb
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\EntityFramework.xml
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\obj\Debug\ProjetoDotNetUnidade2.Infra.Data.csprojResolveAssemblyReference.cache
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\obj\Debug\ProjetoDotNetUnidade2.Infra.Data.dll
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.Infra.Data\obj\Debug\ProjetoDotNetUnidade2.Infra.Data.pdb
