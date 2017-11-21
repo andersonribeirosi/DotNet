@@ -12,18 +12,15 @@ namespace ProjetoDotNetUnidade2.Infra.Data.Contexto
             : base("name=ProjetoDotNetUnidade2")
         {
         }
-
+        
         public virtual DbSet<Cliente> Clientes { get; set; }
         public virtual DbSet<Produto> Produtos { get; set; }
-
-
+        
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
             modelBuilder.Conventions.Remove<OneToManyCascadeDeleteConvention>();
             modelBuilder.Conventions.Remove<ManyToManyCascadeDeleteConvention>();
-            
-
         }
     }
 }

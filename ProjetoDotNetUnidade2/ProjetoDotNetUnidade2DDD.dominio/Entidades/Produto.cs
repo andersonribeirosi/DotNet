@@ -12,7 +12,7 @@ namespace ProjetoDotNetUnidade2DDD.dominio.Entidades
 
         public decimal Valor { get; set; }
 
-        public int Disponivel { get; set; }
+        public bool Disponivel { get; set; }
 
         public int ClienteID { get; set; }
 

@@ -32,10 +32,12 @@
   <ItemGroup>
     <Compile Include="Entidades\Cliente.cs" />
     <Compile Include="Entidades\Produto.cs" />
+    <Compile Include="Interfaces\IClienteRepositorio.cs" />
+    <Compile Include="Interfaces\IProdutoRepositorio.cs" />
+    <Compile Include="Interfaces\IRepositorioBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Interfaces\" />
     <Folder Include="Serviços\" />
   </ItemGroup>
   <ItemGroup>
