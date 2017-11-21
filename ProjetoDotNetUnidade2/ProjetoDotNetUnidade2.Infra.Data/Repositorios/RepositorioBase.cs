@@ -4,11 +4,8 @@ using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 // Repositório Genérico
-
 namespace ProjetoDotNetUnidade2.Infra.Data.Repositorios
 {
     public class RepositorioBase<TEntidade> : IDisposable, IRepositorioBase<TEntidade> where TEntidade : class

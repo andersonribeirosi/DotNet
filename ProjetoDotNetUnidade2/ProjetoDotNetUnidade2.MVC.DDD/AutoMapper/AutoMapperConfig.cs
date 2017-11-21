@@ -10,7 +10,6 @@ namespace ProjetoDotNetUnidade2.MVC.DDD.AutoMapper
             {
                 x.AddProfile<DomainToViewModelMappingProfile>();
                 x.AddProfile<ViewModelToDomainMappingProfile>();
-
             });
         }
 

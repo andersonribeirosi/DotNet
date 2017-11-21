@@ -42,6 +42,8 @@ namespace ProjetoDotNetUnidade2.MVC.DDD.Controllers
             {
                 var clienteDomain = Mapper.Map<ClienteViewModel, Cliente>(cliente);
                 _clienteRepositorio.Add(clienteDomain);
+
+                return RedirectToAction("Index");
             }
             return View(cliente);
         }

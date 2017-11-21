@@ -112,6 +112,7 @@ C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUn
 C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\obj\Debug\ProjetoDotNetUnidade2.MVC.DDD.csprojResolveAssemblyReference.cache
 C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\obj\Debug\ProjetoDotNetUnidade2.MVC.DDD.dll
 C:\Users\Juliana Borges\Downloads\anderson\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\obj\Debug\ProjetoDotNetUnidade2.MVC.DDD.pdb
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\AutoMapper.Net4.dll
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ApplicationInsights.config
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\csc.exe
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -129,6 +130,7 @@ C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Projeto
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ProjetoDotNetUnidade2.MVC.DDD.dll
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ProjetoDotNetUnidade2.MVC.DDD.pdb
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Antlr3.Runtime.dll
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\AutoMapper.dll
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\EntityFramework.dll
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\EntityFramework.SqlServer.dll
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.Agent.Intercept.dll
@@ -141,6 +143,8 @@ C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microso
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.Web.Infrastructure.dll
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Newtonsoft.Json.dll
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ProjetoDotNetUnidade2.Infra.Data.dll
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ProjetoDotNetUnidade2DDD.dominio.dll
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.Helpers.dll
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.Mvc.dll
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.Optimization.dll
@@ -149,6 +153,9 @@ C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.WebPages.dll
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\System.Web.WebPages.Razor.dll
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\WebGrease.dll
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ProjetoDotNetUnidade2.Infra.Data.pdb
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ProjetoDotNetUnidade2DDD.dominio.pdb
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\AutoMapper.xml
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\EntityFramework.xml
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\EntityFramework.SqlServer.xml
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.DependencyCollector.xml
@@ -169,10 +176,3 @@ C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Newtons
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\obj\Debug\ProjetoDotNetUnidade2.MVC.DDD.csprojResolveAssemblyReference.cache
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\obj\Debug\ProjetoDotNetUnidade2.MVC.DDD.dll
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\obj\Debug\ProjetoDotNetUnidade2.MVC.DDD.pdb
-C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ProjetoDotNetUnidade2DDD.dominio.dll
-C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ProjetoDotNetUnidade2DDD.dominio.pdb
-C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\AutoMapper.Net4.dll
-C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\AutoMapper.dll
-C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\AutoMapper.xml
-C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ProjetoDotNetUnidade2.Infra.Data.dll
-C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ProjetoDotNetUnidade2.Infra.Data.pdb

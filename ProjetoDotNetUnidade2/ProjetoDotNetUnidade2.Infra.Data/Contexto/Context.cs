@@ -1,10 +1,9 @@
 namespace ProjetoDotNetUnidade2.Infra.Data.Contexto
 {
     using ProjetoDotNetUnidade2DDD.dominio.Entidades;
-    using System;
     using System.Data.Entity;
     using System.Data.Entity.ModelConfiguration.Conventions;
-    using System.Linq;
+    using System;
 
     public class Context : DbContext
     {
@@ -21,6 +20,11 @@ namespace ProjetoDotNetUnidade2.Infra.Data.Contexto
             modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
             modelBuilder.Conventions.Remove<OneToManyCascadeDeleteConvention>();
             modelBuilder.Conventions.Remove<ManyToManyCascadeDeleteConvention>();
+        }
+
+        internal void SaveChanges<TEntidade>(TEntidade obj) where TEntidade : class
+        {
+            throw new NotImplementedException();
         }
     }
 }
