@@ -46,18 +46,6 @@ namespace ProjetoDotNetUnidade2.MVC.DDD.Controllers
             return View(cliente);
         }
 
-        /*
-        try
-        {
-            _clienteViewModel.Add(cliente);
-            return RedirectToAction("Index");
-        }
-        catch
-        {
-            return View();
-        } */
-
-
         // GET: Clientes/Edit/5
         public ActionResult Edit(int id)
         {
