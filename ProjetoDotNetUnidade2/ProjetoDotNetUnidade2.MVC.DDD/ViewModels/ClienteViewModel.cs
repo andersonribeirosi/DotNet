@@ -23,8 +23,8 @@ namespace ProjetoDotNetUnidade2.MVC.DDD.ViewModels
         public string Email { get; set; }
 
 
-        [ScaffoldColumn(false)] // O campo DataCadastro não será criado
-        public DateTime DataCadastro { get; set; }
+       // [ScaffoldColumn(false)] // O campo DataCadastro não será criado
+       // public DateTime DataCadastro { get; set; }
 
         public bool Ativo { get; set; }
         public virtual IEnumerable<ProdutoViewModel> Produtos { get; set; }

@@ -132,7 +132,6 @@ C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Projeto
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Antlr3.Runtime.dll
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\AutoMapper.dll
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\EntityFramework.dll
-C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\EntityFramework.SqlServer.dll
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.Agent.Intercept.dll
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.DependencyCollector.dll
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -157,7 +156,6 @@ C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Projeto
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\ProjetoDotNetUnidade2DDD.dominio.pdb
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\AutoMapper.xml
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\EntityFramework.xml
-C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\EntityFramework.SqlServer.xml
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.DependencyCollector.xml
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2.MVC.DDD\bin\Microsoft.AI.Web.xml

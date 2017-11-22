@@ -13,8 +13,10 @@ namespace ProjetoDotNetUnidade2.MVC.DDD.AutoMapper
 
         protected override void Configure()
         {
-            Mapper.CreateMap<ClienteViewModel, Cliente>();
-            Mapper.CreateMap<ProdutoViewModel, Produto>();
+           
+            Mapper.CreateMap<Produto, ProdutoViewModel>();
+            Mapper.CreateMap<Cliente, ClienteViewModel>();
+            
         }
     }
 }
