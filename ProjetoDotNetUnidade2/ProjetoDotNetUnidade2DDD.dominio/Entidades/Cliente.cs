@@ -12,8 +12,6 @@ namespace ProjetoDotNetUnidade2DDD.dominio.Entidades
 
         public string Email { get; set; }
 
-       // public DateTime DataCadastro { get; set; }
-
         public bool Ativo { get; set; }
 
         public virtual IEnumerable<Produto> Produtos { get; set; }
@@ -22,12 +20,7 @@ namespace ProjetoDotNetUnidade2DDD.dominio.Entidades
         {
             return cliente.Ativo;
         }
-            /*
-            public bool ClienteEspecial(Cliente cliente) {
-
-               return cliente.Ativo && DateTime.Now.Year - cliente.DataCadastro.Year >= 5;
-            } */
-
+         
 
         }
 }
