@@ -10,3 +10,4 @@ C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.dominio\bin\Debu
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.dominio\bin\Debug\ProjetoDotNetUnidade2DDD.dominio.pdb
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.dominio\obj\Debug\ProjetoDotNetUnidade2DDD.dominio.dll
 C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.dominio\obj\Debug\ProjetoDotNetUnidade2DDD.dominio.pdb
+C:\dotnet\DotNet\ProjetoDotNetUnidade2\ProjetoDotNetUnidade2DDD.dominio\obj\Debug\ProjetoDotNetUnidade2DDD.dominio.csprojResolveAssemblyReference.cache

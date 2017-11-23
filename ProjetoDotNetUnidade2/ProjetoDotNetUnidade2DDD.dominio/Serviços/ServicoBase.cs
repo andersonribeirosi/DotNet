@@ -1,4 +1,5 @@
-﻿using ProjetoDotNetUnidade2DDD.dominio.Interfaces.Serviços;
+﻿using ProjetoDotNetUnidade2DDD.dominio.Interfaces;
+using ProjetoDotNetUnidade2DDD.dominio.Interfaces.Serviços;
 using System;
 using System.Collections.Generic;
 
@@ -7,39 +8,47 @@ namespace ProjetoDotNetUnidade2DDD.dominio.Serviços
 {
     public class ServicoBase<TEntidade> : IDisposable, IServicoBase<TEntidade> where TEntidade : class
     {
+        private readonly IRepositorioBase<TEntidade> _repositorio;
+
+        public ServicoBase(IRepositorioBase<TEntidade> repositorio)
+        {
+            _repositorio = repositorio;
+        }
+
+
         public void Add(TEntidade obj)
         {
-            throw new NotImplementedException();
+            _repositorio.Add(obj);
         }
 
         public void Disponse()
         {
-            throw new NotImplementedException();
+            _repositorio.Disponse();
         }
 
         public void Dispose()
         {
-            throw new NotImplementedException();
+            _repositorio.Disponse();
         }
 
         public IEnumerable<TEntidade> GetAll()
         {
-            throw new NotImplementedException();
+            return _repositorio.GetAll();
         }
 
-        public TEntidade GetNyId(int id)
+        public TEntidade GetById(int id)
         {
-            throw new NotImplementedException();
+            return _repositorio.GetById(id);
         }
 
         public void Remove(TEntidade obj)
         {
-            throw new NotImplementedException();
+            _repositorio.Remove(obj);
         }
 
         public void Update(TEntidade obj)
         {
-            throw new NotImplementedException();
+            _repositorio.Update(obj);
         }
     }
 }

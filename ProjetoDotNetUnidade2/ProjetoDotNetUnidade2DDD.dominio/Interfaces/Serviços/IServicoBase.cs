@@ -5,7 +5,7 @@ namespace ProjetoDotNetUnidade2DDD.dominio.Interfaces.Serviços
 {
     public interface IServicoBase<TEntidade> where TEntidade : class
     {
-        TEntidade GetNyId(int id);
+        TEntidade GetById(int id);
 
         IEnumerable<TEntidade> GetAll();
 

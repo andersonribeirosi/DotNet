@@ -18,11 +18,16 @@ namespace ProjetoDotNetUnidade2DDD.dominio.Entidades
 
         public virtual IEnumerable<Produto> Produtos { get; set; }
 
-  //      public bool ClienteEspecial(Cliente cliente) {
+        public bool ClienteEspecial(Cliente cliente)
+        {
+            return cliente.Ativo;
+        }
+            /*
+            public bool ClienteEspecial(Cliente cliente) {
 
-    //        return cliente.Ativo && DateTime.Now.Year - cliente.DataCadastro.Year >= 5;
-      //  }
+               return cliente.Ativo && DateTime.Now.Year - cliente.DataCadastro.Year >= 5;
+            } */
 
 
-    }
+        }
 }

@@ -40,7 +40,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AppServicoBase.cs" />
+    <Compile Include="ClienteAppServico.cs" />
+    <Compile Include="Interface\IAppServicoBase.cs" />
+    <Compile Include="Interface\IClienteAppServico.cs" />
+    <Compile Include="Interface\IProdutoAppServico.cs" />
+    <Compile Include="ProdutoAppServico.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ProjetoDotNetUnidade2DDD.dominio\ProjetoDotNetUnidade2DDD.dominio.csproj">
+      <Project>{36ee7736-b23b-4548-91f8-514f2f557596}</Project>
+      <Name>ProjetoDotNetUnidade2DDD.dominio</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
